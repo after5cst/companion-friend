@@ -1,0 +1,10 @@
+black
+fastapi[all]
+# PyATEMMax
+# python-rtmidi
+pytest~=6.2.4
+pyyaml
+setuptools~=57.0.0
+# texttable
+requests
+-e .
